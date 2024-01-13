@@ -108,6 +108,130 @@ build Chap01Compile: CXX_EXECUTABLE_LINKER__Chap01Compile_Debug CMakeFiles/Chap0
   TARGET_FILE = Chap01Compile
   TARGET_PDB = Chap01Compile.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap02Prg2_1
+
+
+#############################################
+# Order-only phony target for Chap02Prg2_1
+
+build cmake_object_order_depends_target_Chap02Prg2_1: phony || CMakeFiles/Chap02Prg2_1.dir
+
+build CMakeFiles/Chap02Prg2_1.dir/Chapter02/prg02_01.cpp.o: CXX_COMPILER__Chap02Prg2_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter02/prg02_01.cpp || cmake_object_order_depends_target_Chap02Prg2_1
+  DEP_FILE = CMakeFiles/Chap02Prg2_1.dir/Chapter02/prg02_01.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap02Prg2_1.dir/Chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap02Prg2_1
+
+
+#############################################
+# Link the executable Chap02Prg2_1
+
+build Chap02Prg2_1: CXX_EXECUTABLE_LINKER__Chap02Prg2_1_Debug CMakeFiles/Chap02Prg2_1.dir/Chapter02/prg02_01.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap02Prg2_1
+  TARGET_PDB = Chap02Prg2_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap02Prg2_2
+
+
+#############################################
+# Order-only phony target for Chap02Prg2_2
+
+build cmake_object_order_depends_target_Chap02Prg2_2: phony || CMakeFiles/Chap02Prg2_2.dir
+
+build CMakeFiles/Chap02Prg2_2.dir/Chapter02/prg02_02.cpp.o: CXX_COMPILER__Chap02Prg2_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter02/prg02_02.cpp || cmake_object_order_depends_target_Chap02Prg2_2
+  DEP_FILE = CMakeFiles/Chap02Prg2_2.dir/Chapter02/prg02_02.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap02Prg2_2.dir/Chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap02Prg2_2
+
+
+#############################################
+# Link the executable Chap02Prg2_2
+
+build Chap02Prg2_2: CXX_EXECUTABLE_LINKER__Chap02Prg2_2_Debug CMakeFiles/Chap02Prg2_2.dir/Chapter02/prg02_02.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap02Prg2_2
+  TARGET_PDB = Chap02Prg2_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap02Prg2_3
+
+
+#############################################
+# Order-only phony target for Chap02Prg2_3
+
+build cmake_object_order_depends_target_Chap02Prg2_3: phony || CMakeFiles/Chap02Prg2_3.dir
+
+build CMakeFiles/Chap02Prg2_3.dir/Chapter02/prg02_03.cpp.o: CXX_COMPILER__Chap02Prg2_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter02/prg02_03.cpp || cmake_object_order_depends_target_Chap02Prg2_3
+  DEP_FILE = CMakeFiles/Chap02Prg2_3.dir/Chapter02/prg02_03.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap02Prg2_3.dir/Chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap02Prg2_3
+
+
+#############################################
+# Link the executable Chap02Prg2_3
+
+build Chap02Prg2_3: CXX_EXECUTABLE_LINKER__Chap02Prg2_3_Debug CMakeFiles/Chap02Prg2_3.dir/Chapter02/prg02_03.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap02Prg2_3
+  TARGET_PDB = Chap02Prg2_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap02Prg2_4
+
+
+#############################################
+# Order-only phony target for Chap02Prg2_4
+
+build cmake_object_order_depends_target_Chap02Prg2_4: phony || CMakeFiles/Chap02Prg2_4.dir
+
+build CMakeFiles/Chap02Prg2_4.dir/Chapter02/prg02_04.cpp.o: CXX_COMPILER__Chap02Prg2_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter02/prg02_04.cpp || cmake_object_order_depends_target_Chap02Prg2_4
+  DEP_FILE = CMakeFiles/Chap02Prg2_4.dir/Chapter02/prg02_04.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap02Prg2_4.dir/Chapter02
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap02Prg2_4
+
+
+#############################################
+# Link the executable Chap02Prg2_4
+
+build Chap02Prg2_4: CXX_EXECUTABLE_LINKER__Chap02Prg2_4_Debug CMakeFiles/Chap02Prg2_4.dir/Chapter02/prg02_04.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap02Prg2_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap02Prg2_4
+  TARGET_PDB = Chap02Prg2_4.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -142,7 +266,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug
 
-build all: phony Cplusplus Chap01Compile
+build all: phony Cplusplus Chap01Compile Chap02Prg2_1 Chap02Prg2_2 Chap02Prg2_3 Chap02Prg2_4
 
 # =============================================================================
 # Built-in targets
