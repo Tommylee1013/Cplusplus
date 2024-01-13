@@ -1,0 +1,6 @@
+# ninja log v5
+0	1433	1705155236567103459	CMakeFiles/Cplusplus.dir/Chapter01/HelloWorlds.cpp.o	69c343697ed458f3
+1436	1580	1705155236719041922	Cplusplus	17d33d5f5cbaa9c0
+0	1200	1705155524891911729	CMakeFiles/Chap01Compile.dir/Chapter01/test.cpp.o	e65ba1ce773ded20
+1	1313	1705155525008214259	CMakeFiles/Chap01Compile.dir/Chapter01/HelloCompile.cpp.o	dcc92a39cf10326b
+1313	1475	1705155525172481156	Chap01Compile	25c790350c0944f3

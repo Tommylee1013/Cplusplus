@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cplusplus",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap01Compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap01Compile-Debug-1e0225f1addb7f351de8.json",
+					"name" : "Chap01Compile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cplusplus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cplusplus-Debug-9cd019761df01e834a5d.json",
+					"name" : "Cplusplus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug",
+		"source" : "/Users/junghunlee/Desktop/Programming/CLion/Cplusplus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
