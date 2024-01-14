@@ -219,6 +219,15 @@ Cplusplus_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Cplusplus_SOURCE_DIR:STATIC=/Users/junghunlee/Desktop/Programming/CLion/Cplusplus
 
+//Value Computed by CMake
+Project_BINARY_DIR:STATIC=/Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=/Users/junghunlee/Desktop/Programming/CLion/Cplusplus
+
 
 ########################
 # INTERNAL cache entries
