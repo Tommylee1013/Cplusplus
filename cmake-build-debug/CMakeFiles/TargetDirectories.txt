@@ -39,5 +39,8 @@
 /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap04Prg4_10.dir
 /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap04Prg4_12.dir
 /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap04Prg4_14.dir
+/Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap05Prg5_2.dir
+/Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap05Prg5_4.dir
+/Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/Chap05Prg5_5.dir
 /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

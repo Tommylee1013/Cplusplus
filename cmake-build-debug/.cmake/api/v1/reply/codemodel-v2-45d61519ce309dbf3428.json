@@ -55,7 +55,10 @@
 						37,
 						38,
 						39,
-						40
+						40,
+						41,
+						42,
+						43
 					]
 				}
 			],
@@ -110,7 +113,10 @@
 						37,
 						38,
 						39,
-						40
+						40,
+						41,
+						42,
+						43
 					]
 				}
 			],
@@ -394,6 +400,27 @@
 					"id" : "Chap04Prg4_9::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Chap04Prg4_9-Debug-5ae6f185ab0684283805.json",
 					"name" : "Chap04Prg4_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap05Prg5_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap05Prg5_2-Debug-52acc9c0eff874ee6b1b.json",
+					"name" : "Chap05Prg5_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap05Prg5_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap05Prg5_4-Debug-fc9e128b693657960115.json",
+					"name" : "Chap05Prg5_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap05Prg5_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap05Prg5_5-Debug-961ada30f99f7b1f1c89.json",
+					"name" : "Chap05Prg5_5",
 					"projectIndex" : 0
 				},
 				{
