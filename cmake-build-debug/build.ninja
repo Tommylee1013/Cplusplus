@@ -1689,6 +1689,192 @@ build Chap05Prg5_14: CXX_EXECUTABLE_LINKER__Chap05Prg5_14_Debug CMakeFiles/Chap0
   TARGET_FILE = Chap05Prg5_14
   TARGET_PDB = Chap05Prg5_14.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap05Prg5_16
+
+
+#############################################
+# Order-only phony target for Chap05Prg5_16
+
+build cmake_object_order_depends_target_Chap05Prg5_16: phony || CMakeFiles/Chap05Prg5_16.dir
+
+build CMakeFiles/Chap05Prg5_16.dir/Chapter05/prg05_16.cpp.o: CXX_COMPILER__Chap05Prg5_16_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter05/prg05_16.cpp || cmake_object_order_depends_target_Chap05Prg5_16
+  DEP_FILE = CMakeFiles/Chap05Prg5_16.dir/Chapter05/prg05_16.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap05Prg5_16.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap05Prg5_16.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap05Prg5_16
+
+
+#############################################
+# Link the executable Chap05Prg5_16
+
+build Chap05Prg5_16: CXX_EXECUTABLE_LINKER__Chap05Prg5_16_Debug CMakeFiles/Chap05Prg5_16.dir/Chapter05/prg05_16.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap05Prg5_16.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap05Prg5_16
+  TARGET_PDB = Chap05Prg5_16.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap05Prg5_17
+
+
+#############################################
+# Order-only phony target for Chap05Prg5_17
+
+build cmake_object_order_depends_target_Chap05Prg5_17: phony || CMakeFiles/Chap05Prg5_17.dir
+
+build CMakeFiles/Chap05Prg5_17.dir/Chapter05/prg05_17.cpp.o: CXX_COMPILER__Chap05Prg5_17_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter05/prg05_17.cpp || cmake_object_order_depends_target_Chap05Prg5_17
+  DEP_FILE = CMakeFiles/Chap05Prg5_17.dir/Chapter05/prg05_17.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap05Prg5_17.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap05Prg5_17.dir/Chapter05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap05Prg5_17
+
+
+#############################################
+# Link the executable Chap05Prg5_17
+
+build Chap05Prg5_17: CXX_EXECUTABLE_LINKER__Chap05Prg5_17_Debug CMakeFiles/Chap05Prg5_17.dir/Chapter05/prg05_17.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap05Prg5_17.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap05Prg5_17
+  TARGET_PDB = Chap05Prg5_17.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap06Prg6_1
+
+
+#############################################
+# Order-only phony target for Chap06Prg6_1
+
+build cmake_object_order_depends_target_Chap06Prg6_1: phony || CMakeFiles/Chap06Prg6_1.dir
+
+build CMakeFiles/Chap06Prg6_1.dir/Chapter06/prg06_01.cpp.o: CXX_COMPILER__Chap06Prg6_1_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter06/prg06_01.cpp || cmake_object_order_depends_target_Chap06Prg6_1
+  DEP_FILE = CMakeFiles/Chap06Prg6_1.dir/Chapter06/prg06_01.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap06Prg6_1.dir/Chapter06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap06Prg6_1
+
+
+#############################################
+# Link the executable Chap06Prg6_1
+
+build Chap06Prg6_1: CXX_EXECUTABLE_LINKER__Chap06Prg6_1_Debug CMakeFiles/Chap06Prg6_1.dir/Chapter06/prg06_01.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap06Prg6_1
+  TARGET_PDB = Chap06Prg6_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap06Prg6_2
+
+
+#############################################
+# Order-only phony target for Chap06Prg6_2
+
+build cmake_object_order_depends_target_Chap06Prg6_2: phony || CMakeFiles/Chap06Prg6_2.dir
+
+build CMakeFiles/Chap06Prg6_2.dir/Chapter06/prg06_02.cpp.o: CXX_COMPILER__Chap06Prg6_2_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter06/prg06_02.cpp || cmake_object_order_depends_target_Chap06Prg6_2
+  DEP_FILE = CMakeFiles/Chap06Prg6_2.dir/Chapter06/prg06_02.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap06Prg6_2.dir/Chapter06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap06Prg6_2
+
+
+#############################################
+# Link the executable Chap06Prg6_2
+
+build Chap06Prg6_2: CXX_EXECUTABLE_LINKER__Chap06Prg6_2_Debug CMakeFiles/Chap06Prg6_2.dir/Chapter06/prg06_02.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap06Prg6_2
+  TARGET_PDB = Chap06Prg6_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap06Prg6_3
+
+
+#############################################
+# Order-only phony target for Chap06Prg6_3
+
+build cmake_object_order_depends_target_Chap06Prg6_3: phony || CMakeFiles/Chap06Prg6_3.dir
+
+build CMakeFiles/Chap06Prg6_3.dir/Chapter06/prg06_03.cpp.o: CXX_COMPILER__Chap06Prg6_3_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter06/prg06_03.cpp || cmake_object_order_depends_target_Chap06Prg6_3
+  DEP_FILE = CMakeFiles/Chap06Prg6_3.dir/Chapter06/prg06_03.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap06Prg6_3.dir/Chapter06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap06Prg6_3
+
+
+#############################################
+# Link the executable Chap06Prg6_3
+
+build Chap06Prg6_3: CXX_EXECUTABLE_LINKER__Chap06Prg6_3_Debug CMakeFiles/Chap06Prg6_3.dir/Chapter06/prg06_03.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap06Prg6_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap06Prg6_3
+  TARGET_PDB = Chap06Prg6_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Chap05Prg6_4
+
+
+#############################################
+# Order-only phony target for Chap05Prg6_4
+
+build cmake_object_order_depends_target_Chap05Prg6_4: phony || CMakeFiles/Chap05Prg6_4.dir
+
+build CMakeFiles/Chap05Prg6_4.dir/Chapter06/prg06_04.cpp.o: CXX_COMPILER__Chap05Prg6_4_unscanned_Debug /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/Chapter06/prg06_04.cpp || cmake_object_order_depends_target_Chap05Prg6_4
+  DEP_FILE = CMakeFiles/Chap05Prg6_4.dir/Chapter06/prg06_04.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Chap05Prg6_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/Chap05Prg6_4.dir/Chapter06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Chap05Prg6_4
+
+
+#############################################
+# Link the executable Chap05Prg6_4
+
+build Chap05Prg6_4: CXX_EXECUTABLE_LINKER__Chap05Prg6_4_Debug CMakeFiles/Chap05Prg6_4.dir/Chapter06/prg06_04.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/Chap05Prg6_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Chap05Prg6_4
+  TARGET_PDB = Chap05Prg6_4.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1723,7 +1909,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/junghunlee/Desktop/Programming/CLion/Cplusplus/cmake-build-debug
 
-build all: phony Cplusplus Chap01Compile Chap02Prg2_1 Chap02Prg2_2 Chap02Prg2_3 Chap02Prg2_4 Chap02Prg2_5 Chap02Prg2_6 Chap02Prg2_7 Chap02Prg2_9 Chap02Prg2_11 Chap02Prg2_12 Chap02Prg2_13 Chap03Prg3_1 Chap03Prg3_2 Chap03Prg3_3 Chap03Prg3_4 Chap03Prg3_5 Chap03Prg3_6 Chap03Prg3_7 Chap03Prg3_8 Chap03Prg3_11 Chap03Prg3_17 Chap03Prg3_21 Chap03Prg3_22 Chap03Prg3_23 Chap03Prg3_24 Chap03Prg3_25 Chap03Prg3_26 Chap04Prg4_1 Chap04Prg4_2 Chap04Prg4_3 Chap04Prg4_4 Chap04Prg4_5 Chap04Prg4_6 Chap04Prg4_7 Chap04Prg4_8 Chap04Prg4_9 Chap04Prg4_10 Chap04Prg4_12 Chap04Prg4_14 Chap05Prg5_2 Chap05Prg5_4 Chap05Prg5_5 Chap05Prg5_6 Chap05Prg5_7 Chap05Prg5_8 Chap05Prg5_9 Chap05Prg5_10 Chap05Prg5_11 Chap05Prg5_12 Chap05Prg5_13 Chap05Prg5_14
+build all: phony Cplusplus Chap01Compile Chap02Prg2_1 Chap02Prg2_2 Chap02Prg2_3 Chap02Prg2_4 Chap02Prg2_5 Chap02Prg2_6 Chap02Prg2_7 Chap02Prg2_9 Chap02Prg2_11 Chap02Prg2_12 Chap02Prg2_13 Chap03Prg3_1 Chap03Prg3_2 Chap03Prg3_3 Chap03Prg3_4 Chap03Prg3_5 Chap03Prg3_6 Chap03Prg3_7 Chap03Prg3_8 Chap03Prg3_11 Chap03Prg3_17 Chap03Prg3_21 Chap03Prg3_22 Chap03Prg3_23 Chap03Prg3_24 Chap03Prg3_25 Chap03Prg3_26 Chap04Prg4_1 Chap04Prg4_2 Chap04Prg4_3 Chap04Prg4_4 Chap04Prg4_5 Chap04Prg4_6 Chap04Prg4_7 Chap04Prg4_8 Chap04Prg4_9 Chap04Prg4_10 Chap04Prg4_12 Chap04Prg4_14 Chap05Prg5_2 Chap05Prg5_4 Chap05Prg5_5 Chap05Prg5_6 Chap05Prg5_7 Chap05Prg5_8 Chap05Prg5_9 Chap05Prg5_10 Chap05Prg5_11 Chap05Prg5_12 Chap05Prg5_13 Chap05Prg5_14 Chap05Prg5_16 Chap05Prg5_17 Chap06Prg6_1 Chap06Prg6_2 Chap06Prg6_3 Chap05Prg6_4
 
 # =============================================================================
 # Built-in targets
