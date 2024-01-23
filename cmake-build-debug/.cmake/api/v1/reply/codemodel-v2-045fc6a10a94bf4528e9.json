@@ -73,7 +73,11 @@
 						55,
 						56,
 						57,
-						58
+						58,
+						59,
+						60,
+						61,
+						62
 					]
 				}
 			],
@@ -146,7 +150,11 @@
 						55,
 						56,
 						57,
-						58
+						58,
+						59,
+						60,
+						61,
+						62
 					]
 				}
 			],
@@ -532,16 +540,16 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Chap05Prg6_4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Chap05Prg6_4-Debug-8a3b46b56378107539f1.json",
-					"name" : "Chap05Prg6_4",
+					"id" : "Chap06Prg6_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_1-Debug-41bb2896c38367875155.json",
+					"name" : "Chap06Prg6_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Chap06Prg6_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Chap06Prg6_1-Debug-41bb2896c38367875155.json",
-					"name" : "Chap06Prg6_1",
+					"id" : "Chap06Prg6_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_12-Debug-4196a929e657d32adc10.json",
+					"name" : "Chap06Prg6_12",
 					"projectIndex" : 0
 				},
 				{
@@ -556,6 +564,34 @@
 					"id" : "Chap06Prg6_3::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Chap06Prg6_3-Debug-58b18d995df13094e7eb.json",
 					"name" : "Chap06Prg6_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap06Prg6_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_4-Debug-246df0893a3971dd6e64.json",
+					"name" : "Chap06Prg6_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap06Prg6_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_5-Debug-7c363b26ad1fe58360a0.json",
+					"name" : "Chap06Prg6_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap06Prg6_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_6-Debug-a86fb8d9d543c5e09204.json",
+					"name" : "Chap06Prg6_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap06Prg6_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_7-Debug-3d08c4740d52afde7492.json",
+					"name" : "Chap06Prg6_7",
 					"projectIndex" : 0
 				},
 				{
