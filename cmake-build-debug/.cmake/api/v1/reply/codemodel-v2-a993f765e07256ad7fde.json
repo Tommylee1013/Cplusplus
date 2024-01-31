@@ -81,7 +81,9 @@
 						63,
 						64,
 						65,
-						66
+						66,
+						67,
+						68
 					]
 				}
 			],
@@ -162,7 +164,9 @@
 						63,
 						64,
 						65,
-						66
+						66,
+						67,
+						68
 					]
 				}
 			],
@@ -597,6 +601,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Chap06Prg6_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap06Prg6_20-Debug-ed4080e84f3a36cd8068.json",
+					"name" : "Chap06Prg6_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Chap06Prg6_3::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Chap06Prg6_3-Debug-58b18d995df13094e7eb.json",
 					"name" : "Chap06Prg6_3",
@@ -628,6 +639,13 @@
 					"id" : "Chap06Prg6_7::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Chap06Prg6_7-Debug-3d08c4740d52afde7492.json",
 					"name" : "Chap06Prg6_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap07Prg7_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap07Prg7_1-Debug-a293b46018d9f64aa2df.json",
+					"name" : "Chap07Prg7_1",
 					"projectIndex" : 0
 				},
 				{
