@@ -79,3 +79,6 @@ add_executable(Chap07Prg7_3 Chapter07/prg07_03.cpp)
 add_executable(Chap07Prg7_4 Chapter07/prg07_04.cpp)
 add_executable(Chap07Prg7_5 Chapter07/prg07_05.cpp)
 add_executable(Chap07Prg7_6 Chapter07/prg07_06.cpp)
+add_executable(Chap07Prg7_7 Chapter07/cricle.cpp
+        Chapter07/circle.h
+        Chapter07/app.cpp)
